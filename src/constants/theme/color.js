@@ -1,0 +1,23 @@
+export const PRIMARY_COLOR = "#00ACFB";
+export const SEMI_PRIMARY_COLOR = "#0095E5";
+export const SECONDARY_COLOR = "#00488B";
+export const TRANSPARENT_BLUE = "#BEE4F5";
+export const LIGHT_BLUE = "#F5FCFF";
+export const LIGHT_GREY = "#E6ECEF";
+export const LIGHT_GREY1 = "#F5F7F8";
+export const GREY = "#F1FAFF";
+export const GREY_BG ="#F9F9F9";
+export const GREY2 = "#C4C4C4C4";
+export const GREY_LIGHT = "#E1E1E1";
+export const GREY_LIGHT2 = "#F0F0F0";
+export const DARK_GREY = "#575758";
+export const TEXT_GREY = "#5D6368";
+export const TEXT_GREY1 = "#484C50";
+export const WHITE = "#FFF";
+export const BLACK = "#000";
+export const BLACK2 = "#0F172A";
+export const MILK = "#FCFCFC";
+
+export const LIGHT_YELLOW = "#FCEED4";
+export const YELLOW = "#FCAC12";
+export const GREEN = "#00A86B";
